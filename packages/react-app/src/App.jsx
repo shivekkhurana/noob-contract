@@ -430,7 +430,7 @@ function App(props) {
             */}
 
             <Contract
-              name="YourContract"
+              name="HelloWorld"
               signer={userSigner}
               provider={localProvider}
               address={address}
